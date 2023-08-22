@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "HDXxNkworwkFm5BDyC7wE7G22W+pGmevkq7hXjmW2+M=",
+  "Source": "PeliculasAPI",
+  "BasePath": "_content/PeliculasAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PeliculasAPI\\wwwroot",
+      "Source": "PeliculasAPI",
+      "ContentRoot": "D:\\Usuario\\Documents\\Cursos\\CURZO AVANZADO .NET\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
