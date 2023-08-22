@@ -85,3 +85,7 @@ D:\Usuario\Documents\Cursos\CURZO AVANZADO .NET\PeliculasAPI\PeliculasAPI\bin\De
 D:\Usuario\Documents\Cursos\CURZO AVANZADO .NET\PeliculasAPI\PeliculasAPI\obj\Debug\net6.0\PeliculasAPI.Properties.Resources.resources
 D:\Usuario\Documents\Cursos\CURZO AVANZADO .NET\PeliculasAPI\PeliculasAPI\obj\Debug\net6.0\PeliculasAPI.csproj.GenerateResource.cache
 D:\Usuario\Documents\Cursos\CURZO AVANZADO .NET\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\PeliculasAPI.staticwebassets.runtime.json
+D:\Usuario\Documents\Cursos\CURZO AVANZADO .NET\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Usuario\Documents\Cursos\CURZO AVANZADO .NET\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Usuario\Documents\Cursos\CURZO AVANZADO .NET\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Usuario\Documents\Cursos\CURZO AVANZADO .NET\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
